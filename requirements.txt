@@ -1,0 +1,9 @@
+Flask
+requests
+pandas
+Faker
+openai
+azure-openai
+faker-commerce
+boto3
+werkzeug
